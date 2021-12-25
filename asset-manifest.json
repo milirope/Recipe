@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milirope.github.io/Recipe/static/css/main.5396a911.css",
+    "main.js": "/milirope.github.io/Recipe/static/js/main.90ab410a.js",
+    "index.html": "/milirope.github.io/Recipe/index.html",
+    "main.5396a911.css.map": "/milirope.github.io/Recipe/static/css/main.5396a911.css.map",
+    "main.90ab410a.js.map": "/milirope.github.io/Recipe/static/js/main.90ab410a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5396a911.css",
+    "static/js/main.90ab410a.js"
+  ]
+}
